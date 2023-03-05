@@ -1,5 +1,10 @@
 {
     "files.associations": {
         "stdlib.h": "c"
-    }
+    },
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false
+    },
+    "editor.renderWhitespace": "all", 
 }
