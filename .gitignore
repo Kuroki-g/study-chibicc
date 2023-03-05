@@ -1,3 +1,5 @@
-9cc/*
-!9cc/*.c
-!9cc/*.sh
+*~
+*.o
+tmp*
+a.out
+9cc
